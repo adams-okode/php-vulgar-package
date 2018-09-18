@@ -1,0 +1,14 @@
+{
+    "name": "adams/vulgar-package",
+    "description": "vulgar text eliminator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adams Okode",
+            "email": "adamsokode@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
